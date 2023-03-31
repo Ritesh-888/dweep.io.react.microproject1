@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dweep.io.react.microproject1/static/css/main.3b94e79d.css",
+    "main.js": "/dweep.io.react.microproject1/static/js/main.1297a674.js",
+    "static/media/dweep io 1.svg": "/dweep.io.react.microproject1/static/media/dweep io 1.e4254d945f7f28a4a6889b8fe41b54c9.svg",
+    "static/media/LinkedinLogo.svg": "/dweep.io.react.microproject1/static/media/LinkedinLogo.f4466724897a183e3fb08c10ea588640.svg",
+    "static/media/InstagramLogo.svg": "/dweep.io.react.microproject1/static/media/InstagramLogo.266cf007a759696816dcabb491c74025.svg",
+    "index.html": "/dweep.io.react.microproject1/index.html",
+    "main.3b94e79d.css.map": "/dweep.io.react.microproject1/static/css/main.3b94e79d.css.map",
+    "main.1297a674.js.map": "/dweep.io.react.microproject1/static/js/main.1297a674.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b94e79d.css",
+    "static/js/main.1297a674.js"
+  ]
+}
